@@ -60,7 +60,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### לולה נותנת בראש
+https://example.com/product/lvlh-nvtnt-brash-96ckrf
+- Price: 559.90 ILS (sale, was 599.90 ILS)
+- Availability: In stock
+- Description: בחורה לוהטת מהמובחרות של עמיחי, סוגים: צ׳אחלה, מוצא מרוקאי.
+- Image: https://example.com/assets/product-enhanced-1782163811766-awvxr9.webp
 
 ---
 
