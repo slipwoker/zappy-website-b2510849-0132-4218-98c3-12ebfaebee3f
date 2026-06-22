@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-b2510849.zappy5.app
+https://example.com
 צלול לעולם הפרוע של קטלוג בחורות מצחיק בסגנון סאטירי ישראלי. עמיחי כהן מגיש את מאגר הבחורות המוגזם והקורע עם קטגוריות הזויות שלא ראית בחיים. היכנס עכשיו ותבחר את הבחורה שהכי תצחיק אותך!
 
 ### הפרסונה
-https://-b2510849.zappy5.app/persona
+https://example.com/persona
 מי זה עמיחי כהן ולמה הוא הפך למומחה מספר אחת לבחורות? הצצה מצחיקה לפרסונה שמאחורי קטלוג הבחורות הכי מופרע בארץ. תתכוננו להיסטריה, תובנות מפוקפקות ואגו מנופח בכחול-ורוד.
 
 ### עולם חזותי
-https://-b2510849.zappy5.app/visual-world
+https://example.com/visual-world
 תכלת וורוד מתנגשים בסטייל קומי מוגזם! גלו את העולם החזותי של קטלוג בחורות מצחיק – טיפוגרפיה צעקנית, אייקונים מופרכים והרבה אטיטיוד. בואו לראות איך הופכים הומור ישראלי על בחורות לחגיגה לעיניים.
 
 ### שאלות נפוצות והבהרות
-https://-b2510849.zappy5.app/faq-disclaimer
+https://example.com/faq-disclaimer
 האם הבחורות אמיתיות? איך בוחרים? מה עמיחי באמת חושב? כל התשובות לשאלות הכי מביכות על קטלוג בחורות מצחיק – עם המון הומור ישראלי והבהרות חשובות. תקראו לפני שמתקשרים, כן?
 
 ### צור קשר
-https://-b2510849.zappy5.app/contact
+https://example.com/contact
 יש לכם בחורה להציע לקטלוג? רוצים לפרגן צחוקים או סתם להגיד שלום לעמיחי? צרו קשר עם הממלכה של קטלוג בחורות מצחיק. אנחנו מבטיחים לענות, אבל לא באחריות על רמת ההומור בתשובה.
 
 ### Products
-https://-b2510849.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בחורה לפי בחירתך מאת עמיחי קטלוג הבחורות הרשמי של עמיחי כהן! הקטלוג הגדול בישראל.🫦
 
 ### Product Detail
-https://-b2510849.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בחורה לפי בחירתך מאת עמיחי קטלוג הבחורות הרשמי של עמיחי כהן! הקטלוג הגדול בישראל.🫦
 
 ### Category
-https://-b2510849.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בחורה לפי בחירתך מאת עמיחי קטלוג הבחורות הרשמי של עמיחי כהן! הקטלוג הגדול בישראל.🫦
 
 ### תודה שפנית אלינו
-https://-b2510849.zappy5.app/thank-you
+https://example.com/thank-you
 בחורה לפי בחירתך מאת עמיחי קטלוג הבחורות הרשמי של עמיחי כהן! הקטלוג הגדול בישראל.🫦 - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b2510849.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b2510849.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b2510849.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -82,8 +82,8 @@ Comedy & Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b2510849.zappy5.app/sitemap.xml
-- Robots: https://-b2510849.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b2510849.zappy5.app/llms-full.txt
-- Products (JSON): https://-b2510849.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-b2510849.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
